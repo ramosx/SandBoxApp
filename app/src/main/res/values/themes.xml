@@ -12,6 +12,6 @@
         parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
         <item name="android:background">@drawable/abc_cab_background_top_material</item>
     </style>
-
     <style name="MyActionBarTabText">MyActionBarTabText</style>
+
 </resources>
